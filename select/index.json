@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "テレビアニメ「悪役令嬢転生おじさん」挿入歌 「銀河鉄道999」",
+  "base_artist": "グレイス＝憲三郎（CV: 井上和彦、CV: M・A・O）",
+  "createdAt": "2026-01-06T21:06:21.363745Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テレビアニメ「悪役令嬢転生おじさん」挿入歌 「銀河鉄道999」",
+      "artist": "グレイス=憲三郎(CV: 井上和彦、CV: M・A・O)",
+      "has_synced": false,
+      "path": "select/pl_01_テレビアニメ「悪役令嬢転生おじさん」挿入歌_「銀河鉄道999」_グレイス=憲三郎(CV__井上和彦、CV__M・A・O).txt"
+    }
+  ]
+}
